@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1717602732 source:c:\users\36656\desktop\c\projektkoncowy\d2b.c
+	"d2b.h"
+
+1717602748 c:\users\36656\desktop\c\projektkoncowy\d2b.h
+
+1717602685 source:c:\users\36656\desktop\c\projektkoncowy\laczenie.c
+	"laczenie.h"
+	<stdio.h>
+	<string.h>
+
+1717602702 c:\users\36656\desktop\c\projektkoncowy\laczenie.h
+
+1717602558 source:c:\users\36656\desktop\c\projektkoncowy\logarytm.c
+	"logarytm.h"
+	<stdio.h>
+	<math.h>
+
+1717602654 c:\users\36656\desktop\c\projektkoncowy\logarytm.h
+
+1717602913 source:c:\users\36656\desktop\c\projektkoncowy\obliczenia.c
+	"obliczenia.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1717602927 c:\users\36656\desktop\c\projektkoncowy\obliczenia.h
+
+1717602734 source:c:\users\hubert\desktop\projektkoncowy\d2b.c
+	"d2b.h"
+
+1717602750 c:\users\hubert\desktop\projektkoncowy\d2b.h
+
+1717602686 source:c:\users\hubert\desktop\projektkoncowy\laczenie.c
+	"laczenie.h"
+	<stdio.h>
+	<string.h>
+
+1717602704 c:\users\hubert\desktop\projektkoncowy\laczenie.h
+
+1717602560 source:c:\users\hubert\desktop\projektkoncowy\logarytm.c
+	"logarytm.h"
+	<stdio.h>
+	<math.h>
+
+1717602656 c:\users\hubert\desktop\projektkoncowy\logarytm.h
+
+1717603034 source:c:\users\hubert\desktop\projektkoncowy\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	"logarytm.h"
+	"laczenie.h"
+	"d2b.h"
+	"obliczenia.h"
+
+1717602928 c:\users\hubert\desktop\projektkoncowy\obliczenia.h
+
+1717602914 source:c:\users\hubert\desktop\projektkoncowy\obliczenia.c
+	"obliczenia.h"
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
